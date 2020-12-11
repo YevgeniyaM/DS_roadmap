@@ -6,7 +6,7 @@
 
 This is my path to complete the Data Science undergraduate curriculum on my own time, with courses from the best universities or companies in the World.
 
-[Start](https://www.notion.so/5d1f4284bd1546e781340f1294b9e055?v=abfe7855502f494b90f54a51552be5b6)
+[Start](https://www.notion.so/Data-Science-from-Scratch-0a3a4e97d7664a2a9a5fc29b7f597da1)
 
 ## Programming
 
