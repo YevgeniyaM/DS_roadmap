@@ -12,9 +12,9 @@ This is my path to complete the Data Science undergraduate curriculum on my own 
 
 ## Python
 
-[Courses](https://www.notion.so/30d3ea3968c34078875e9d9dfcca3803)
+[Courses](https://www.notion.so/30d3ea3968c34078875e9d9dfcca3803?v=1fcac0f39c114043809f0f4bc8c30c23)
 
-[Books](https://www.notion.so/40fdcd63ccdd4bffa727a98a1b077cbf)
+[Books](https://www.notion.so/40fdcd63ccdd4bffa727a98a1b077cbf?v=9e18be5880dc4fb28c4d9e25734085a1)
 
 ## C++
 
