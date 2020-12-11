@@ -1,4 +1,4 @@
-# README
+# Data Science curriculum
 
 ![https://github.com/YevgeniyaM/Data-Science_roadmap/blob/main/pics/DS.png](https://github.com/YevgeniyaM/Data-Science_roadmap/blob/main/pics/DS.png)
 
