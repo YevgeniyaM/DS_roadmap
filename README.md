@@ -1,6 +1,6 @@
 # README
 
-![README%20c3915a9fd3ce4f1b8f15c2156621d6bc/Untitled.png](README%20c3915a9fd3ce4f1b8f15c2156621d6bc/Untitled.png)
+![https://github.com/YevgeniyaM/Data-Science_roadmap/blob/main/pics/DS.png](https://github.com/YevgeniyaM/Data-Science_roadmap/blob/main/pics/DS.png.png)
 
 ## **About**
 
